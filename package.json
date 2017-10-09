@@ -1,5 +1,5 @@
 {
-  "name": "draft-js",
+  "name": "draft-js-stable",
   "description": "A React framework for building text editors.",
   "version": "0.9.1",
   "keywords": [
